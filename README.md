@@ -38,7 +38,7 @@ This setup follows a **modular**, **scalable**, and **secure** architecture patt
 ```bash
 # Clone the repository
 git clone https://github.com/Ahmed-wa7eed/terraform-aws-three-tier.git
-cd aws-terraform-webapp
+cd terraform-aws-three-tier
 
 # Initialize Terraform
 terraform init
