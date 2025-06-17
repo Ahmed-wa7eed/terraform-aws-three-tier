@@ -3,6 +3,7 @@
 This project provisions a **highly available 3-tier web application** infrastructure on **AWS** using **Terraform**. It demonstrates best practices for Infrastructure as Code (IaC), including secure networking, autoscaling, and load balancing.
 
 ---
+![image alt](https://github.com/Ahmed-wa7eed/terraform-aws-three-tier/blob/40e8be7a4367c7cdd36bae0c6f0f360c3bd1713e/Untitled%20-%20Frame%201.jpg)
 
 ## 📌 Architecture Overview
 
