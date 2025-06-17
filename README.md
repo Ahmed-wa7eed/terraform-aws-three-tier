@@ -29,7 +29,7 @@ This setup follows a **modular**, **scalable**, and **secure** architecture patt
 ### 🔧 Prerequisites
 
 - AWS CLI configured
-- Terraform >= 1.3
+- AWS = ~>5.0
 - IAM user with permissions to provision AWS infrastructure
 
 ### 📦 Steps
