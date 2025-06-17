@@ -48,5 +48,9 @@ terraform plan
 
 # Apply the configuration
 terraform apply
+```
+---
+### Output
+![img alt](https://github.com/Ahmed-wa7eed/terraform-aws-three-tier/blob/8c50a0e41d09907dc2ebff4b3d05925ae6f89e29/output.png)
 
 
