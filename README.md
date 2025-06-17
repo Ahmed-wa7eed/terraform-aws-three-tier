@@ -1,4 +1,4 @@
-# 🌐 AWS 3-Tier Web Application using Terraform
+# 🌐 AWS 2-Tier Web Application using Terraform
 
 This project provisions a **highly available 3-tier web application** infrastructure on **AWS** using **Terraform**. It demonstrates best practices for Infrastructure as Code (IaC), including secure networking, autoscaling, and load balancing.
 
